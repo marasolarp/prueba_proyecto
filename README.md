@@ -11,3 +11,5 @@ Se crea otra variable llamada numInvertido para almacenar los numeros invertidos
    Sumar los elementos del array.
 
 si el resultado modulo de 10 es igual a 0 me retorna que la tarjeta es válida y si es lo contrario la tarjeta es inválida.
+
+![IMAGE]( https://github.com/marasolarp/prueba_proyecto/blob/master/Diagrama%20de%20flujo%20Tarjeta%20de%20Cr%C3%A9dito.png "Diagrama de flujo Tarjeta de Crédito")
